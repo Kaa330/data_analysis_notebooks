@@ -5,3 +5,4 @@ This repository contains lab assignments for the Introduction to Data Analysis c
  1. preliminary_data_analysis.ipynb
  2. analysis_of_relationships_between_features_in_two_dimensional_dataset.ipynb
  3. data_clustering.ipynb
+ 4. application_of_classification_methods.ipynb
